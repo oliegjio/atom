@@ -1,1 +1,16 @@
-# atom
+### Packages:
+- atom-jade
+- atom-typescript
+- color-picker
+- docblockr
+- emmet
+- file-icons
+- highlight-selection
+- language-blade
+- language-vue
+- minimap
+- minimap-cursorline
+- minimap-highlight-selected
+- minimap-pigments
+- zentabs
+- __ linter
