@@ -15,3 +15,5 @@
 - zentabs
 - linter
 - pigments
+- atom-beautify
+- linter-js-standard
