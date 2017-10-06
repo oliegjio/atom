@@ -15,3 +15,4 @@
 - zentabs
 - pigments
 - atom-beautify
+- language-haskell
