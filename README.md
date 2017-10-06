@@ -13,7 +13,5 @@
 - minimap-highlight-selected
 - minimap-pigments
 - zentabs
-- linter
 - pigments
 - atom-beautify
-- linter-js-standard
