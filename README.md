@@ -5,7 +5,7 @@
 - docblockr
 - emmet
 - file-icons
-- highlight-selection
+- selection-highlight
 - language-blade
 - language-vue
 - minimap
