@@ -14,3 +14,4 @@
 - minimap-pigments
 - zentabs
 - __ linter
+- pigments
