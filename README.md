@@ -13,5 +13,5 @@
 - minimap-highlight-selected
 - minimap-pigments
 - zentabs
-- __ linter
+- linter
 - pigments
