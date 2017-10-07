@@ -16,3 +16,4 @@
 - pigments
 - atom-beautify
 - language-haskell
+- permanent-delete
