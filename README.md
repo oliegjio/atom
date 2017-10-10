@@ -12,7 +12,6 @@
 - minimap-cursorline
 - minimap-highlight-selected
 - minimap-pigments
-- zentabs
 - pigments
 - atom-beautify
 - language-haskell
