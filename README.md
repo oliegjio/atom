@@ -1,4 +1,4 @@
-### Packages:
+### Essential Packages:
 - atom-jade
 - atom-typescript
 - color-picker
@@ -13,6 +13,9 @@
 - minimap-highlight-selected
 - minimap-pigments
 - pigments
-- atom-beautify
 - language-haskell
+
+### Optional Packages:
 - permanent-delete
+- atom-beautify
+- zentabs
