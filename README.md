@@ -14,6 +14,7 @@
 - minimap-pigments
 - pigments
 - language-haskell
+- markdown-preview-plus
 
 ### Optional Packages:
 - permanent-delete
