@@ -1,0 +1,35 @@
+"*":
+  core:
+    autoHideMenuBar: true
+    automaticallyUpdate: false
+    closeDeletedFileTabs: true
+    disabledPackages: [
+      "spell-check"
+      "language-gfm"
+    ]
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "no"
+  editor:
+    scrollPastEnd: true
+    softWrap: true
+    zoomFontWhenCtrlScrolling: false
+  "exception-reporting":
+    userId: "c1a07425-3ba2-49f1-bacd-488f2b11dfac"
+  minimap:
+    plugins:
+      cursorline: true
+      cursorlineDecorationsZIndex: 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  "sync-settings":
+    _lastBackupHash: "1e6c705afcbecc2e3903ed4d904f3b129c5ae870"
+    gistId: "e37a70df28b35c16cb120141fc56eb16"
+    personalAccessToken: "fbe41cbf8a54e6411ccfe1d1e26741e5568fe1d2"
+  welcome:
+    showOnStartup: false
+".blade.html.php.text":
+  editor:
+    commentEnd: " --}}"
+    commentStart: "{{-- "

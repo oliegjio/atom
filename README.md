@@ -1,20 +1,6 @@
-### Essential Packages:
-- atom-jade
-- atom-typescript
-- color-picker
-- docblockr
-- emmet
-- file-icons
-- highlight-selected
-- language-blade
-- language-vue
-- minimap
-- minimap-cursorline
-- minimap-highlight-selected
-- minimap-pigments
-- pigments
-- language-haskell
-- markdown-preview-plus
+### Backup Packages List:
+- Backup: `apm list --installed --bare > packages.list`.
+- Restore: `apm install --packages-file packages.list`.
 
 ### Optional Packages:
 - permanent-delete
