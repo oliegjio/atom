@@ -6,10 +6,12 @@
     disabledPackages: [
       "spell-check"
       "language-gfm"
+      "markdown-preview"
     ]
     restorePreviousWindowsOnStart: "no"
     telemetryConsent: "no"
   editor:
+    fontSize: 17
     scrollPastEnd: true
     softWrap: true
     zoomFontWhenCtrlScrolling: false
